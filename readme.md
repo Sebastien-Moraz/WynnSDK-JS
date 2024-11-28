@@ -1,4 +1,4 @@
-# Wynn SDK (JS)
+# Wynn SDK (JS) (In Development)
 
 Wynn SDK is a not official SDK for the WynnCraft API. It is written in JavaScript and is designed to be easy to use.
 
