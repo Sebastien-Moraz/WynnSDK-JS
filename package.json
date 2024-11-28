@@ -1,11 +1,11 @@
 {
   "name": "wynn-sdk-js",
-  "version": "0.0.1",
-  "description": "Foobar is a Python library for dealing with word pluralization.",
+  "version": "0.0.2",
+  "description": "Not official SDK for Wynncraft API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sebastien Moraz",
-  "license": "ISC"
+  "license": "MIT"
 }

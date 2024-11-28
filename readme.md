@@ -1,6 +1,6 @@
 # Wynn SDK (JS)
 
-Wynn SDK is a library that allows you to interact with the Wynncraft API.
+Wynn SDK is a not official SDK for the WynnCraft API. It is written in JavaScript and is designed to be easy to use.
 
 ## Installation
 
